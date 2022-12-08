@@ -11,7 +11,10 @@ I've been learning Ruby, Ruby on Rails, Javascript, React.js, HTML, CSS and am j
 *   🚀  I'm currently working on [Beantown Brews](http://beantown-brews.onrender.com/)
 *   🧠  I'm learning Full stack development
 *   🤝  I'm open to collaborating on Ruby on Rails and React.js projects
-*   ⚡  I enjoy exploring everything Boston has to offer and meeting others in the tech community!### Skills 
+*   ⚡  I enjoy exploring everything Boston has to offer and meeting others in the tech community!
+
+<br>
+Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
